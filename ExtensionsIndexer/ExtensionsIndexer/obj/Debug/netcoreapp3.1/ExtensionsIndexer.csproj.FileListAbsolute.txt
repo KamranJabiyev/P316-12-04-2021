@@ -1,0 +1,11 @@
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\bin\Debug\netcoreapp3.1\ExtensionsIndexer.exe
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\bin\Debug\netcoreapp3.1\ExtensionsIndexer.deps.json
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\bin\Debug\netcoreapp3.1\ExtensionsIndexer.runtimeconfig.json
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\bin\Debug\netcoreapp3.1\ExtensionsIndexer.runtimeconfig.dev.json
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\bin\Debug\netcoreapp3.1\ExtensionsIndexer.dll
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\bin\Debug\netcoreapp3.1\ExtensionsIndexer.pdb
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\obj\Debug\netcoreapp3.1\ExtensionsIndexer.csprojAssemblyReference.cache
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\obj\Debug\netcoreapp3.1\ExtensionsIndexer.AssemblyInfoInputs.cache
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\obj\Debug\netcoreapp3.1\ExtensionsIndexer.AssemblyInfo.cs
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\obj\Debug\netcoreapp3.1\ExtensionsIndexer.dll
+E:\P316\C#\ExtensionsIndexer\ExtensionsIndexer\obj\Debug\netcoreapp3.1\ExtensionsIndexer.pdb
